@@ -16,5 +16,5 @@
 
 1. Клонируйте репозиторий и перейдите в папку с проектом:
    ```bash
-   git clone <ССЫЛКА_НА_ВАШ_РЕПОЗИТОРИЙ>
+   git clone <https://github.com/AlkhovikDzmitry/currency_service>
    cd currency_service
